@@ -25,3 +25,4 @@ Mex
 Vapi
 żółw
 lis
+Fenek
