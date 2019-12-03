@@ -15,4 +15,5 @@ livekkk
 
 
 
-!ostatni5
+!ostatni
+!pięć
