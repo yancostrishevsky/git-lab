@@ -1,4 +1,4 @@
-Pan Tadeusz
+﻿Pan Tadeusz
 Terry 🚀🍵
 livekkk
 mydlimydli
@@ -16,7 +16,7 @@ Cube
 
 
 DenkoV
-
+Susełek
 
 
 
@@ -34,13 +34,12 @@ lis
 Fenek
 
 
-Susełek
+
 
 
 
 Atleta
-<<<<<<< HEAD
 
-=======
+
 Swift
->>>>>>> 7ac130425f13caf0a5d72ba469434a48cfbab00a
+
