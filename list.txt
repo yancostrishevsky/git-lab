@@ -10,7 +10,12 @@ Jalid
 
 zhylkaa
 
+<<<<<<< HEAD
 Rakieta
+=======
+Laa-Laa
+
+>>>>>>> added nick to list.txt
 Cube
 
 Laa-Laa
