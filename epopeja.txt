@@ -5,7 +5,12 @@ Widzę i opisuję, bo tęsknię po tobie.
 
 Panno święta, co Jasnej bronisz Częstochowy
 <<<<<<< HEAD
+<<<<<<< HEAD
 I w Ostrej świecisz Bramie! Ty, co gród zamkowy
+=======
+I w Ostrej świecisz Bramie! Ty, co gród zamkowy
+
+>>>>>>> newLineInPT
 =======
 I w Ostrej świecisz Bramie! Ty, co gród zamkowy
 
