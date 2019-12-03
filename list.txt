@@ -4,13 +4,12 @@ livekkk
 mydlimydli
 rivit
 Atanasius
-<<<<<<< HEAD
 szarek
+Aksolotl
 
-=======
 
 Cube
->>>>>>> 6b64effae69fa15d6b2c19af8dd26f94dc272c14
+
 
 
 
@@ -24,4 +23,8 @@ Cube
 !pięć
 Brutus
 durszlak
+
 Mex
+Vapi
+żółw
+lis
