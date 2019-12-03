@@ -4,8 +4,13 @@ livekkk
 mydlimydli
 rivit
 Atanasius
+<<<<<<< HEAD
 szarek
 
+=======
+
+Cube
+>>>>>>> 6b64effae69fa15d6b2c19af8dd26f94dc272c14
 
 
 
