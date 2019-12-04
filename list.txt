@@ -7,7 +7,7 @@ Atanasius
 szarek
 Aksolotl
 Jalid
-
+APodo
 zhylkaa
 
 Rakieta
@@ -49,4 +49,6 @@ Atleta
 Saollin
 
 Swift
+
+Pinio
 Przemq
