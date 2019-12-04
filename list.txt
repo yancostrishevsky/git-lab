@@ -27,6 +27,7 @@ Mex
 Vapi
 żółw
 lis
+Enkeli
 Fenek
 hubabuba
 rzuf
