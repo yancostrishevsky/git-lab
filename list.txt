@@ -9,16 +9,19 @@ Aksolotl
 Jalid
 APodo
 zhylkaa
+Teivos
 Rakieta
 Laa-Laa
 Cube
 DenkoV
 Susełek
+jaskolka
 dam
 !ostatni
 !pięć
 Brutus
 durszlak
+bibul
 rzabolbabol
 Mex
 Vapi
@@ -33,3 +36,4 @@ Swift
 Pinio
 Przemq
 Wokstym
+Defau1t
