@@ -26,6 +26,7 @@ dam
 !pięć
 Brutus
 durszlak
+bibul
 rzabolbabol
 Mex
 Vapi
