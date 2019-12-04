@@ -16,4 +16,8 @@ Tymczasem przenoś moją duszę utęsknioną
 Do tych pagórków leśnych, do tych łąk zielonych,
 Szeroko nad błękitnym Niemnem rozciągnionych;
 Do tych pól malowanych zbożem rozmaitem,
+<<<<<<< HEAD
 Wyzłacanych pszenicą, posrebrzanych żytem;
+=======
+Wyzłacanych pszenicą, posrebrzanych żytem;
+>>>>>>> 130659af306c5852ec2bd4099b7c0404cd1f70f8

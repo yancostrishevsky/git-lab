@@ -20,7 +20,7 @@ Susełek
 
 
 
-
+dam
 
 !ostatni
 !pięć
@@ -49,4 +49,6 @@ Atleta
 Saollin
 
 Swift
+
 Pinio
+Przemq
