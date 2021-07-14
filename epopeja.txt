@@ -39,5 +39,11 @@ Uprawne dobrze na kształt ogrodowych grządek:
 Że w tym domu dostatek mieszka i porządek.
 Brama na wciąż otwarta przechodniom ogłasza,
 że gościnna i wszystkich w gościnę zaprasza
+<<<<<<< HEAD
 
 Właśnie dwukonną bryką wjechał młody panek
+=======
+Właśnie dwukonną bryką wjechał młody panek
+I obiegłszy dziedziniec zawrócił przed ganek.
+Wysiadł z powozu; konie porzucone same,
+>>>>>>> f1af5c9d24efc2c8529376a4bcc04c7bd6a95b10
