@@ -61,8 +61,5 @@ Mr.Bones
 the-ultimate-krol
 Chrzanowski
 PS
-<<<<<<< HEAD
-mwojtyna
-=======
 Piotrose1
->>>>>>> bf800093a2d855773d8e69dbb89e88f4b94bce78
+mwojtyna
